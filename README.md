@@ -1,6 +1,6 @@
 # office-jokes-ai-judge-laugh
 
-One line, 80 characters: one joke about office life — for make.fun's "Make the AI Judge Laugh: Office Jokes" bounty. The program writes the line to `/output/entry.txt`.
+One line, 79 characters: one joke about office life — for make.fun's "Make the AI Judge Laugh: Office Jokes" bounty. The program writes the line to `/output/entry.txt`.
 
 > My calendar invited me to a meeting about meetings. I declined. It rescheduled.
 
